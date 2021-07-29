@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    Setting a button gradient at 45 degrees-->
+    <gradient
+        android:startColor="#FFB6C1"
+        android:endColor="	#E6E6FA"
+        android:angle="45"
+        />
+</shape>

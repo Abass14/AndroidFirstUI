@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Week3Task</string>
+    <string name="checkout">Checkout</string>
+    <string name="deliver">Deliver to</string>
+    <string name="address_one">Imran Road, Khayaban Colony, Lahore, Pakistan7</string>
+    <string name="address_btn">Change Address</string>
+    <string name="payment">Payment Method</string>
+    <string name="text_dark">#020000</string>
+    <string name="atm_text">**** **** **** 3947</string>
+    <string name="visa">Visa</string>
+    <string name="use_btn_text">Use Other</string>
+    <string name="amt">Amount</string>
+    <string name="item_one">Item total</string>
+    <string name="delivery">Delivery fee</string>
+    <string name="totalTotal" />
+    <string name="total">Total</string>
+    <string name="price_one">$1000</string>
+    <string name="price_two">$50</string>
+    <string name="total_price">$1050</string>
+    <string name="last_btn_text">Place Order</string>
+    <string name="back_desc">back image view</string>
+    <string name="icon">icon decr</string>
+</resources>
